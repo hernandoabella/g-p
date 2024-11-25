@@ -17,7 +17,7 @@ const CTA: React.FC = () => {
           href="/contact" // You can link this to your contact page or any other relevant page
           className="inline-block bg-yellow-500 text-blue-900 font-semibold py-3 px-8 rounded-lg shadow-md hover:bg-yellow-400 hover:shadow-xl transition-all duration-300"
         >
-          Contact Us Now
+          Schedule Meet
         </a>
       </div>
     </section>
