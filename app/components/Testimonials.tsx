@@ -59,7 +59,7 @@ const Testimonials: React.FC = () => {
               className="flex flex-col items-center text-center p-6 bg-white rounded-lg shadow-lg hover:shadow-xl transition-shadow"
             >
               {/* Client Review */}
-              <p className="text-gray-600 mb-4 italic">"{testimonial.review}"</p>
+              <p className="text-gray-600 mb-4 italic">{testimonial.review}</p>
 
               {/* Client Info */}
               <div className="flex flex-col items-center mb-4">
