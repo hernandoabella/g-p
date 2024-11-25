@@ -9,7 +9,7 @@ const CTA: React.FC = () => {
           Ready to Optimize Your Logistics?
         </h2>
         <p className="text-lg mb-8">
-          Partner with G&P Logistics for seamless, reliable, and cost-effective solutions. Let's take your business to the next level.
+          Partner with G&P Logistics for seamless, reliable, and cost-effective solutions. Let&apos;s take your business to the next level.
         </p>
 
         {/* CTA Button */}
