@@ -9,6 +9,7 @@ import AboutUs from "./components/AboutUs";
 import OurPartners from "./components/OurPartners";
 import Services from "./components/Services";
 import CallNow from "./components/CallNow";
+import CTA from "./components/Cta";
 
 export default function Home() {
   return (
@@ -17,6 +18,7 @@ export default function Home() {
       <Header />
       <Hero />
       <AboutUs />
+      <CTA />
       <Services />
       <WhyUs />
       <Testimonials />
