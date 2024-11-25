@@ -5,7 +5,7 @@ import { FaShip, FaExchangeAlt, FaBox } from 'react-icons/fa';
 const Services: React.FC = () => {
   const services = [
     {
-      icon: <FaShip className="text-blue-600 text-3xl" />,
+      icon: <FaShip className="text-violet-500 text-3xl" />,
       title: 'Non-Vessel Operating Common Carrier (NVOCC)',
       description:
         'We provide reliable and efficient NVOCC services, leveraging a global network for seamless logistics solutions. Our specialized team ensures secure and timely delivery to destinations worldwide, offering unmatched expertise in cargo handling and management.',
