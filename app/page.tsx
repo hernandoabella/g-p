@@ -18,8 +18,8 @@ export default function Home() {
       <Header />
       <Hero />
       <AboutUs />
-      <CTA />
       <Services />
+      <CTA />
       <WhyUs />
       <Testimonials />
       <OurPartners />
